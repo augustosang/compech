@@ -46,8 +46,7 @@
 
 ### Funcionalidades em Diagrama
 
-```mermaid
-  classDiagram
+```
     class Aluno {
       +nome: String
       +imagem: String
